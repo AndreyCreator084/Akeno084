@@ -1,6 +1,6 @@
 #Организуйте программу:
 my_string = input("Ваше любимое хобби: ")
-print(18)
+print(len(my_string))
 #Работа с методами строк:
 print(my_string.upper())
 print(my_string.lower())
